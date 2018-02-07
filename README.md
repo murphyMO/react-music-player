@@ -30,3 +30,4 @@ entry: [
     path.join(__dirname, 'app/router/index.js')
 ],
 ```
+#react-music-player
